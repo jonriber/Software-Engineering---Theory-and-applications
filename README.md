@@ -3,7 +3,7 @@
 Continuous updates for continuous learning on Software Engineering. This repo includes personal notes about different software development
 topics, system designs, tools, frameworks and languages.
 
-## Updated List
+## software engineering topics
 
 - React
 - TypeScript
@@ -15,8 +15,7 @@ topics, system designs, tools, frameworks and languages.
 - Next.js
 - Python
 - OOP
+- rendering patterns
+- react.js
 
 
-## Connection with Discord dev community
-
-insert discord server link
