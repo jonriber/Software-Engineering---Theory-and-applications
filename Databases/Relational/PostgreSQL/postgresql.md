@@ -1,3 +1,11 @@
 # PostgreSQL
 
-PostgreSQL is a relational DB
+PostgreSQL is a relational DB.
+
+## configuration
+
+## security
+
+## docker
+
+## indexes
