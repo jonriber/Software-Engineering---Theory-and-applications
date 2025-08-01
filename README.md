@@ -17,5 +17,6 @@ topics, system designs, tools, frameworks and languages.
 - OOP
 - rendering patterns
 - react.js
+- React native
 
 
