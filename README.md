@@ -18,5 +18,7 @@ topics, system designs, tools, frameworks and languages.
 - rendering patterns
 - react.js
 - React native
-
+- python notebooks
+- machine learning 
+- LLM
 
