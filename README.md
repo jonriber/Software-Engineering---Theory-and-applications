@@ -22,3 +22,5 @@ topics, system designs, tools, frameworks and languages.
 - machine learning 
 - LLM
 
+observations and experiences from my software engineering job, techniques used to tackle different problems 
+
