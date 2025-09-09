@@ -24,3 +24,5 @@ topics, system designs, tools, frameworks and languages.
 
 observations and experiences from my software engineering job, techniques used to tackle different problems 
 
+
+
