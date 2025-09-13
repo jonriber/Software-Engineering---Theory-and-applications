@@ -30,3 +30,5 @@ observations and experiences from my software engineering job, techniques used t
 
 
 
+
+
