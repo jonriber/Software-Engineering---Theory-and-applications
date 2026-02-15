@@ -30,3 +30,28 @@ CREATE TABLE employees (
 );
 ```
 
+- add some `employee` data
+
+```sql
+INSERT INTO employees (name, department, salary, user_role) VALUES
+('Alice', 'Engineering', 70000, 'engineer'),
+('Bob', 'Engineering', 80000, 'engineer'),
+('Charlie', 'HR', 60000, 'hr'),
+('David', 'HR', 65000, 'hr'),
+('Eve', 'Marketing', 70000, 'marketing');
+```
+
+- activate ROW-Level Security on that table 
+
+```sql
+ALTER TABLE employees ENABLE ROW LEVEL SECURITY;
+```
+
+- Create a new policy for that specific table
+
+```sql
+CREATE POLICY department_access_policy
+ON employees
+FOR SELECT
+USING (department = current_user);
+```
